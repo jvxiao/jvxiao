@@ -1,0 +1,40 @@
+name: Blog Posts
+
+on: 
+  schedule:
+    - cron: "0 8 * * *"
+
+jobs:
+  update-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: install dependencies
+        run: |
+         npm install
+      
+      - name: get blog list
+        run: |
+          node ./src/updatePostList.js
+
+      - name: commit
+        id: commit
+        run: |
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "GitHub Actions [Bot]"
+          git add .
+          if git diff-index --quiet HEAD --; then
+              echo "No changes to commit"
+            else
+              git commit -m "[actions bot]: update hosts and readme"
+            fi
+        continue-on-error: true
+        
+      - name: Check on failures
+        if: steps.commit.outputs.status == 'failure'
+        run: exit 1
+        
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  
