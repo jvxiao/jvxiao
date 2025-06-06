@@ -21,7 +21,7 @@ async function updatePostList() {
       let url = `https://www.jvxiao.cn/posts/${p.slug}.html`;
       liststr += `- ${p.date.slice(0, 10)} [${p.title}](${url})\n`
     })
-    liststr += `- [阅读更多...]('https://www.jvxiao.cn/archives/')`;
+    liststr += `- [阅读更多...](https://www.jvxiao.cn/archives/)`;
     console.log(liststr)
 
     let readme = readFileSync(TARGET, 'utf-8').toString();
