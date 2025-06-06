@@ -23,7 +23,7 @@ In my spare time, I enjoy learning new things and creating some very interesting
 
 Feel free to contact me.
 
-## [Latest blog posts](https://jvxiao.cn)
+## [:memo: Latest blog posts](https://jvxiao.cn)
 <!-- blog-start-->
 - 2025-05-27 [搭建个人博客系列--(2) 动手搭建自己的第一个博客站点](https://www.jvxiao.cn/posts/build-personal-blog2.html)
 - 2025-05-25 [搭建个人博客系列--(1) 为什么每个人都该有个数字自留地](https://www.jvxiao.cn/posts/build-personal-blog-1.html)
