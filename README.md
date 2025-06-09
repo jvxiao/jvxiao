@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvxiao)](https://github.com/jvxiao)
 
-I am a full-time front-end developer, and in the past few years, I have mainly used Vue and Node to complete my development work. 
+Hi, I am Jovin Xiao, as known as jvxiao, a full-time front-end developer. In the past few years, I have mainly used Vue and Node to complete my development work. 
 
 In my spare time, I enjoy learning new things and creating some very interesting projects. If you like my projects, please don't hesitate to give me a star or kindly consider [sponsoring me by afdian](https://afdian.com/a/jvxiao).
 
