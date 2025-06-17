@@ -25,10 +25,10 @@ Feel free to contact me.
 
 ## [:memo: Latest blog posts](https://jvxiao.cn)
 <!-- blog-start-->
+- 2025-06-14 [搭建个人博客系列--(4) 利用Github Actions自动构建博客](https://www.jvxiao.cn/posts/build-personal-blog4.html)
 - 2025-06-08 [Node安装保姆级教程](https://www.jvxiao.cn/posts/install-node.html)
 - 2025-06-07 [搭建个人博客系列--(3) Hexo 静态博客搭建实战](https://www.jvxiao.cn/posts/build-personal-blog3.html)
 - 2025-05-27 [搭建个人博客系列--(2) 动手搭建自己的第一个博客站点](https://www.jvxiao.cn/posts/build-personal-blog2.html)
 - 2025-05-25 [搭建个人博客系列--(1) 为什么每个人都该有个数字自留地](https://www.jvxiao.cn/posts/build-personal-blog-1.html)
-- 2025-05-23 [Javascript中两种不同的继承方式对比](https://www.jvxiao.cn/posts/Differences-between-two-kinds-inherit-approches.html)
 - [阅读更多...](https://www.jvxiao.cn/archives/)
 <!-- blog-end -->
