@@ -25,10 +25,10 @@ Feel free to contact me.
 
 ## [:memo: Latest blog posts](https://jvxiao.cn)
 <!-- blog-start-->
+- 2025-07-28 [搞前端还有出路吗？如果有，在哪里？](https://www.jvxiao.cn/posts/future-of-front-end-development.html)
 - 2025-07-15 [从崩溃到稳定：前端开发者必学的 Node.js 守护进程实战指南](https://www.jvxiao.cn/posts/create-daemond-with-node.html)
 - 2025-07-10 [从第一个静态网页到 Vue：Web 技术的 “逆袭史”](https://www.jvxiao.cn/posts/web-history.html)
 - 2025-07-01 [从 Vuex 到 Pinia：Vue 3 状态管理的全面升级](https://www.jvxiao.cn/posts/from-vuex-to-pinia.html)
 - 2025-07-01 [一文读懂 Cookie、Session 和 Token：原理、区别与应用场景](https://www.jvxiao.cn/posts/cookie-session-token.html)
-- 2025-06-27 [JavaScript的"数值计算困局"：生态缺位下的破局之路](https://www.jvxiao.cn/posts/node-numpy.html)
 - [阅读更多...](https://www.jvxiao.cn/archives/)
 <!-- blog-end -->
