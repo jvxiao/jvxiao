@@ -25,10 +25,10 @@ Feel free to contact me.
 
 ## [:memo: Latest blog posts](https://jvxiao.cn)
 <!-- blog-start-->
-- 2025-09-02 [没想到！写证照小程序的博文火了](https://www.jvxiao.cn/posts/last-popular-article.html)
+- 2025-10-15 [self-improve](https://www.jvxiao.cn/posts/self-improve.html)
+- 2025-09-21 [打破软件“收费”羞愧感，勇敢要钱](https://www.jvxiao.cn/posts/about-software-charges.html)
+- 2025-09-02 [没想到！上周写证照小程序的博文火了](https://www.jvxiao.cn/posts/last-popular-article.html)
 - 2025-08-25 [深入理解 JavaScript 中的原型与原型链](https://www.jvxiao.cn/posts/prototype-in-js.html)
 - 2025-08-24 [爆肝三周，我终于上线了自己的第一个小程序](https://www.jvxiao.cn/posts/my-first-miniprogram.html)
-- 2025-08-14 [别再被闭包 “绕晕”！3 分钟搞懂定义、形成与实战作用](https://www.jvxiao.cn/posts/closure.html)
-- 2025-08-08 [Vue vs React 多维度剖析: 哪一个更适合大型项目？](https://www.jvxiao.cn/posts/vue-vs-react.html)
 - [阅读更多...](https://www.jvxiao.cn/archives/)
 <!-- blog-end -->
