@@ -25,10 +25,10 @@ Feel free to contact me.
 
 ## [:memo: Latest blog posts](https://jvxiao.cn)
 <!-- blog-start-->
-- 2025-10-28 [一个切图仔如何破茧成蝶？](https://www.jvxiao.cn/posts/break-out-of-the-cocoon.html)
-- 2025-10-19 [程序员如何打破职业瓶颈？先搬开这3块绊脚石。](https://www.jvxiao.cn/posts/bottleneck-porid.html)
-- 2025-10-15 [Web开发这些年：从“小油条”到“老油条”的成长之路。](https://www.jvxiao.cn/posts/self-improve.html)
-- 2025-09-21 [打破软件“收费”羞愧感，勇敢要钱](https://www.jvxiao.cn/posts/about-software-charges.html)
-- 2025-09-02 [没想到！上周写证照小程序的博文火了](https://www.jvxiao.cn/posts/last-popular-article.html)
+- 2025-12-06 [Vue中双向绑定是什么？它工作原理是什么？万字长文，一次讲透彻！](https://www.jvxiao.cn/posts/bidirection-data-binding.html)
+- 2025-12-06 [Vue进阶系列第1篇：说说对Vue的理解，Vue是什么，有什么作用](https://www.jvxiao.cn/posts/what-is-vue.html)
+- 2025-12-06 [JavaScript ES6中的装饰器(Decorator)是什么？有哪些应用场景？万字长文，谨慎阅读！](https://www.jvxiao.cn/posts/decorator-in-es6.html)
+- 2025-12-06 [说说JavaScript中ES6 module(模块化)的诞生背景、核心语法及应用场景](https://www.jvxiao.cn/posts/module-in-es6.html)
+- 2025-12-06 [JavaScript ES6中的生成器(Generator)是什么？有哪些应用场景？一文全说透](https://www.jvxiao.cn/posts/generator-in-es6.html)
 - [阅读更多...](https://www.jvxiao.cn/archives/)
 <!-- blog-end -->
