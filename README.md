@@ -29,6 +29,6 @@ Feel free to contact me.
 - 2025-12-06 [Vue进阶系列第1篇：说说对Vue的理解，Vue是什么，有什么作用](https://www.jvxiao.cn/posts/what-is-vue.html)
 - 2025-12-06 [JavaScript ES6中的装饰器(Decorator)是什么？有哪些应用场景？万字长文，谨慎阅读！](https://www.jvxiao.cn/posts/decorator-in-es6.html)
 - 2025-12-06 [说说JavaScript中ES6 module(模块化)的诞生背景、核心语法及应用场景](https://www.jvxiao.cn/posts/module-in-es6.html)
-- 2025-12-06 [JavaScript ES6中的生成器(Generator)是什么？有哪些应用场景？一文全说透](https://www.jvxiao.cn/posts/generator-in-es6.html)
+- 2025-12-06 [一文说透ES6 Proxy--从本质到应用场景](https://www.jvxiao.cn/posts/proxy-in-es6.html)
 - [阅读更多...](https://www.jvxiao.cn/archives/)
 <!-- blog-end -->
