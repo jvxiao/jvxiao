@@ -25,10 +25,10 @@ Feel free to contact me.
 
 ## [:memo: Latest blog posts](https://jvxiao.cn)
 <!-- blog-start-->
-- 2025-12-06 [Vue中双向绑定是什么？它工作原理是什么？万字长文，一次讲透彻！](https://www.jvxiao.cn/posts/bidirection-data-binding.html)
-- 2025-12-06 [Vue进阶系列第1篇：说说对Vue的理解，Vue是什么，有什么作用](https://www.jvxiao.cn/posts/what-is-vue.html)
-- 2025-12-06 [JavaScript ES6中的装饰器(Decorator)是什么？有哪些应用场景？万字长文，谨慎阅读！](https://www.jvxiao.cn/posts/decorator-in-es6.html)
-- 2025-12-06 [说说JavaScript中ES6 module(模块化)的诞生背景、核心语法及应用场景](https://www.jvxiao.cn/posts/module-in-es6.html)
-- 2025-12-06 [一文说透ES6 Proxy--从本质到应用场景](https://www.jvxiao.cn/posts/proxy-in-es6.html)
+- 2025-12-28 [Vue进阶系列第9篇--你真的懂nextTick吗？我表示很怀疑](https://www.jvxiao.cn/posts/vue-nextTick.html)
+- 2025-12-26 [Vue进阶系列第8篇--Vue组件间通信方式都有哪些？](https://www.jvxiao.cn/posts/components-communication.html)
+- 2025-12-21 [Vue进阶系列第7篇--对象添加属性之后页面没有刷新，怎么回事？](https://www.jvxiao.cn/posts/vue-page-refresh.html)
+- 2025-12-19 [Vue进阶系列第6篇:Vue实例生命周期详解--组件从创建到销毁的全过程](https://www.jvxiao.cn/posts/left-circle-in-vue.html)
+- 2025-12-16 [Vue进阶系列第5篇--Vue实例挂载的过程中发生了什么?](https://www.jvxiao.cn/posts/vue-mount.html)
 - [阅读更多...](https://www.jvxiao.cn/archives/)
 <!-- blog-end -->
