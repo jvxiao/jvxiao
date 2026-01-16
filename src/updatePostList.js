@@ -17,7 +17,7 @@ async function updatePostList() {
     })
     // slice the top5
     let liststr = '';
-    posts.slice(0, 15).forEach(p => {
+    posts.slice(0, 6).forEach(p => {
       let url = `https://www.jvxiao.cn/posts/${p.slug}.html`;
       liststr += `- ${p.date.slice(0, 10)} [${p.title}](${url})\n`
     })
