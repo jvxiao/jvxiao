@@ -18,7 +18,7 @@ async function updatePostList() {
     // slice the top5
     let liststr = '';
     posts.slice(0, 6).forEach(p => {
-      let url = `https://www.jvxiao.cn/posts/${p.slug}.html`;
+      let url = `https://www.jvxiao.cn/posts/${p.slug}/`;
       liststr += `- ${p.date.slice(0, 10)} [${p.title}](${url})\n`
     })
     liststr += `- [阅读更多...](https://www.jvxiao.cn/archives/)`;
