@@ -36,11 +36,11 @@ I am a Full-stack Frontend Developer dedicated to building sleek, high-performan
 
 ## [:memo: Latest blog posts](https://jvxiao.cn)
 <!-- blog-start-->
-- 2026-01-14 [一文读懂：什么时候该用防抖，什么时候该用节流](https://www.jvxiao.cn/posts/debounce-and-throttle/)
-- 2026-01-12 [把大象装进冰箱分几步？Node.js 大文件“切片上传”深度解析](https://www.jvxiao.cn/posts/upload-large-files/)
-- 2026-01-10 [2026年了，你还在死守Vue2？这不叫稳，叫“自杀式”维护](https://www.jvxiao.cn/posts/vue2-vs-vue3/)
-- 2026-01-06 [图解 Vue2 diff 算法：首尾四向对比核心逻辑全拆解, 告别死记硬背八股文](https://www.jvxiao.cn/posts/vue-diff/)
-- 2026-01-04 [原生 DOM 真的慢吗？为什么现代框架都迷恋虚拟 DOM？](https://www.jvxiao.cn/posts/virtrual-dom/)
-- 2026-01-01 [Vue进阶系列第11篇--说说你对vue的mixin的理解，它的本质是什么？有什么应用场景？](https://www.jvxiao.cn/posts/vue-mixin/)
+- 2026-02-02 [虚拟 DOM 要凉了？Vue 3.6 Vapor Mode 凭什么颠覆前端性能？](https://www.jvxiao.cn/posts/vue-vapor/)
+- 2026-01-29 [Cursor 封神，Trae 免费，Claude Code 扫地](https://www.jvxiao.cn/posts/ai-coders/)
+- 2026-01-27 [面试被问HTTP请求头？别慌，这篇“大白话”带你稳过！](https://www.jvxiao.cn/posts/http-headers/)
+- 2026-01-24 [HTTP 与 HTTPS：一字之差，安全性有何天壤之别？](https://www.jvxiao.cn/posts/http-vs-https/)
+- 2026-01-20 [2026 年，只会写 div 和 css 的前端将彻底失业？](https://www.jvxiao.cn/posts/ai-help-coding/)
+- 2026-01-18 [吃透 XSS/CSRF/SQL 注入：Web 安全防护实战手册](https://www.jvxiao.cn/posts/web-attack/)
 - [阅读更多...](https://www.jvxiao.cn/archives/)
 <!-- blog-end -->
